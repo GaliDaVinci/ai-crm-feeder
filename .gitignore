@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Django - archivos subidos y estáticos recolectados
+media/
+staticfiles/
+
+# SO / Editore
+.DS_Store
+Thumbs.db
