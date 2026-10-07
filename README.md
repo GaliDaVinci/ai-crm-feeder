@@ -33,4 +33,4 @@ _Pendiente — se agrega cuando el entorno esté listo._
 
 ## Autor
 
-Leonardo — estadías Digiproduct, UTT
+Leonardo Ivan Valdez — estadías Digiproduct, UTT
