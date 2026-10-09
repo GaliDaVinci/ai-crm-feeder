@@ -8,7 +8,7 @@ Es un formato estándar que, además, te permite **generar changelogs automátic
 
 ### 📌 Estructura básica
 tipo(alcance): descripción corta en presente
-[cuerpo opcional explicando el porqué, no el qué]
+[cuerpo opcional explicando el porqué]
 
 ---
 
