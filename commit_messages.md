@@ -2,7 +2,7 @@
 
 ---
 
-## ✨ Buena práctica: usar **Conventional Commits**
+## ✨ Buena práctica: usa **Conventional Commits**
 
 Es un formato estándar que, además, te permite **generar changelogs automáticos** si luego lo necesitas.
 
